@@ -5,6 +5,7 @@ Being one of my project, please be kind to me
 
 Today 13/7/66 is the fisrt day for GitHub
 
+i learn about branch GitHub 13/7/66 22.55
 
 ## Badges
 
